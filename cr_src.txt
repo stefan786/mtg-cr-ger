@@ -6,7 +6,7 @@ Magic the Gathering - Die Erweiterten Regeln
 ^Einleitung^
 
 Dieses Dokument wurde für Menschen entworfen, die über die Grundlagen des 
-Spiels #Magic: The Gathering#® hinweg sind. Wenn du erst vor kurzem mit #Magic#™ 
+Spiels #Magic: The Gathering# hinweg sind. Wenn du erst vor kurzem mit #Magic# 
 angefangen hast, wirst du dieses Regelwerk vermutlich einschüchternd finden. Es 
 ist als ultimative Autorität für das Spiel gedacht, und du wirst gewöhnlich 
 nicht darauf zurückgreifen müssen, außer in speziellen Fällen und während 
@@ -15,7 +15,7 @@ Turnierpartien.
 Beim Gelegenheitsspiel und für die meisten gewöhnlichen Situationen wirst du 
 das, was du brauchst, im Standard-Regelbuch für #Magic: The Gathering# finden. Du 
 kannst eine Kopie dieses Regelbuchs von der #Magic#-Regel-Webseite von Wizards of 
-the Coast® unter _#www.wizards.com/Magic/rules#_ herunterladen.
+the Coast unter _#www.wizards.com/Magic/rules#_ herunterladen.
 Wenn du meinst, dass du hier richtig bist, dann lies weiter.
 
 Dieses Dokument enthält eine Reihe von nummerierten Regeln, gefolgt von einem 
@@ -26,15 +26,14 @@ um eine Verwechslung mit den Ziffern „1“ und „0“ zu vermeiden; auf Unter
 704.5k folgt beispielsweise 704.5m, dann 704.5n, und dann 704.5p.)
 
 Wir bei Wizards of the Coast wissen, dass, egal wie detailliert die Regeln 
-sind, Situationen auftauchen werden, in denen die Interaktion von speziellen 
-Karten eine präzise Antwort verlangt. Wenn du Fragen hast, kannst du die 
-Antworten von uns unter _#www.wizards.com/customerservice#_ bekommen.
+sind, Situationen auftauchen werden, in denen die Interaktion von bestimmten 
+Karten eine präzise Antwort verlangt. Wenn du Fragen hast, kannst du uns unter _#www.wizards.com/customerservice#_ kontaktieren.
 Weitere Kontaktinformationen befinden sich auf der letzten Seite dieses Regelwerks.
 
 Als Reaktion auf Vorfälle beim Spiel und um dieses Regelwerk so aktuell wie 
 möglich zu halten, können seit der Veröffentlichung dieses Dokuments Änderungen 
 vorgenommen worden sein. Auf der #Magic#-Regel-Webseite von Wizards of the 
-Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die neueste Version des offiziellen Regelwerks.
+Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die aktuellste Version des offiziellen Regelwerks.
 
 {toc}
 
@@ -50,7 +49,7 @@ Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die neueste Versio
 
 100.2. Zum Spielen benötigt jeder Spieler sein eigenes Deck aus herkömmlichen #Magic#-Karten, kleine Gegenstände zur Darstellung von Spielsteinen und Marken, und eine Möglichkeit, klar erkennbar die Lebenspunktestände zu verfolgen.
 
-100.2a Bei \Constructed\-Partien (in denen jeder Spieler sein Deck vorher gebaut hat) besteht ein Deck aus mindestens sechzig Karten. Ein Constructed-Deck kann eine beliebige Anzahl an Standardlandkarten enthalten und nicht mehr als vier Exemplare einer Karte mit demselben englischen Namen mit Ausnahme von Standardlandkarten.
+100.2a Bei \Constructed\-Partien (in denen jeder Spieler sein Deck vorher gebaut hat) besteht ein Deck aus mindestens sechzig Karten. Ein Constructed-Deck kann eine beliebige Anzahl an Standardland-Karten enthalten und nicht mehr als vier Exemplare einer Karte mit demselben englischen Namen mit Ausnahme von Standardland-Karten.
 
 100.2b Bei \Limited\-Partien (in denen jeder Spieler zu Beginn die gleiche Menge ungeöffneten #Magic#-Produkts erhält und sein Deck nur aus diesem Produkt erstellt) besteht ein Deck aus mindestens vierzig Karten. Ein Limited-Deck kann so viele Duplikate einer Karte enthalten, wie in dem Produkt enthalten sind.
 
@@ -72,13 +71,13 @@ Coast unter _#www.wizards.com/Magic/rules#_ bekommst du immer die neueste Versio
 
 100.6a Turniere bestehen üblicherweise aus einer Reihe von \Matches\. Ein Zwei-Spieler-Match wird üblicherweise gespielt, bis ein Spieler zwei Partien gewonnen hat. Ein Mehrspieler-Match besteht üblicherweise nur aus einer Partie.
 
-100.6b Mithilfe des #Magic# Händler- & Veranstaltungsfinders unter _#www.wizards.com/locator#_ können Spieler Turniere in ihrer Umgebung finden.
+100.6b Mithilfe des #Magic# Store- & Event-Locator unter _#www.wizards.com/locator#_ können Spieler Turniere in ihrer Umgebung finden.
 
 101. Die Goldenen Regeln von #Magic#
 
 101.1. Immer, wenn der Text einer Karte direkt diesem Regelwerk widerspricht, 
 hat die Karte Vorrang. Die Karte hebt nur die Regel auf, die für die 
-spezielle Situation gilt. Die einzige Ausnahme ist, dass ein Spieler zu 
+bestimmte Situation gilt. Die einzige Ausnahme ist, dass ein Spieler zu 
 jedem Zeitpunkt das Spiel \aufgeben\ kann (siehe Regel 104.3a).
 
 101.2. Wenn eine Regel oder ein Effekt erlaubt oder anordnet, dass etwas 
@@ -112,8 +111,8 @@ bestimmen die nicht-aktiven Spieler in Zugreihenfolge je eine Kreatur, die
 sie kontrollieren. Danach werden alle bestimmten Kreaturen gleichzeitig 
 geopfert.
 
-101.4a Wenn ein Effekt jeden Spieler eine Karte in einer versteckten Zone, so 
-wie seine Hand oder Bibliothek, bestimmen lässt, können diese Karten verdeckt 
+101.4a Wenn ein Effekt jeden Spieler eine Karte in einer versteckten Zone, 
+wie seiner Hand oder Bibliothek, bestimmen lässt, können diese Karten verdeckt 
 bleiben, sowie sie bestimmt werden. Jeder Spieler muss jedoch klar anzeigen, 
 welche verdeckte Karte er bestimmt.
 
@@ -235,7 +234,7 @@ der Starthand durchzuführen. Sobald alle Spieler ihre Starthände behalten
 haben, kann der Startspieler diese Aktionen in beliebiger Reihenfolge 
 durchführen. Dann macht jeder andere Spieler in Zugreihenfolge das Gleiche.
 
-103.5a Falls eine Karte einem Spieler erlaubt, das Spiel mit dieser Karte im 
+103.5a Falls eine Karte einem Spieler erlaubt, die Partie mit dieser Karte im 
 Spiel zu beginnen, legt der Spieler, der diese Aktion durchführt, diese Karte ins Spiel.
 
 103.5b Falls eine Karte einem Spieler erlaubt, diese Karte von der Starthand 
@@ -266,117 +265,111 @@ spielt, das Ziehsegment seines ersten Zuges.
 103.7c In allen anderen Mehrspieler-Partien übergeht kein Spieler das 
 Ziehsegment seines ersten Zuges.
 
-104. Das Spiel beenden
+104. Die Partie beenden
 
-104.1. Eine Partie endet sofort, wenn ein Spieler gewinnt, wenn das 
-Spiel Unentschieden ist, oder wenn das Spiel neu gestartet wird.
+104.1. Eine Partie endet sofort, wenn ein Spieler gewinnt, wenn die Partie unentschieden ist oder wenn das Spiel neu gestartet wird.
 
-104.2. Es gibt verschiedene Wege, das Spiel zu gewinnen.
+104.2. Es gibt verschiedene Wege, eine Partie zu gewinnen.
 
-104.2a Ein Spieler, der immer noch im Spiel ist, gewinnt das Spiel, wenn alle 
+104.2a Ein Spieler, der immer noch im Spiel ist, gewinnt die Partie, wenn alle 
 Gegner dieses Spielers das Spiel verlassen haben. Dies geschieht sofort 
 und setzt alle Effekte außer Kraft, die diesen Spieler davon abhalten würden, 
-das Spiel zu gewinnen.
+die Partie zu gewinnen.
 
-104.2b Ein Effekt kann festlegen, dass ein Spieler das Spiel gewinnt. (In 
+104.2b Ein Effekt kann festlegen, dass ein Spieler die Partie gewinnt. (In 
 Mehrspieler-Partien kann es sein, dass die Partie dadurch nicht endet; siehe 
 Regel 104.3h.)
 
 104.2c In einer Mehrspieler-Partie zwischen Teams gewinnt ein Team, das noch 
 mindestens einen Spieler im Spiel hat, wenn alle anderen Teams das Spiel 
-verlassen haben. Jeder Spieler im gewinnenden Team gewinnt das Spiel, selbst 
-wenn einer oder mehrere dieser Spieler zuvor das Spiel verloren hatten.
+verlassen haben. Jeder Spieler im gewinnenden Team gewinnt die Partie, selbst 
+wenn einer oder mehrere dieser Spieler zuvor die Partie verloren hatten.
 
-104.2d In einer Partie Emperor gewinnt ein Team das Spiel, wenn sein Kaiser 
-das Spiel gewinnt. (Siehe Regel 809.5.)
+104.2d In einer Partie Emperor gewinnt ein Team die Partie, wenn sein Kaiser 
+die Partie gewinnt. (Siehe Regel 809.5.)
 
-104.3. Es gibt verschiedene Wege, das Spiel zu verlieren.
+104.3. Es gibt verschiedene Wege, eine Partie zu verlieren.
 
 104.3a Ein Spieler kann das Spiel jederzeit aufgeben. Ein Spieler, der aufgibt, 
-verlässt das Spiel sofort. Er verliert das Spiel.
+verlässt das Spiel sofort. Er verliert die Partie.
 
 104.3b Wenn der Lebenspunktestand eines Spielers 0 oder weniger beträgt, 
-verliert er das Spiel das nächste Mal, wenn ein Spieler Vorrang erhalten 
+verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten 
 würde. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
 104.3c Falls ein Spieler aufgefordert wird, mehr Karten zu ziehen, als in 
 seiner Bibliothek übrig sind, zieht er die verbleibenden Karten und verliert 
-dann das Spiel das nächste Mal, wenn ein Spieler Vorrang erhalten würde. 
+dann die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. 
 (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-104.3d Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er das 
-Spiel das nächste Mal, wenn ein Spieler Vorrang erhalten würde. (Dies ist 
+104.3d Wenn ein Spieler zehn oder mehr Giftmarken hat, verliert er die Partie das nächste Mal, wenn ein Spieler Priorität erhalten würde. (Dies ist 
 eine zustandsbasierte Aktion. Siehe Regel 704.)
 
-104.3e Ein Effekt kann festlegen, dass ein Spieler das Spiel verliert.
+104.3e Ein Effekt kann festlegen, dass ein Spieler die Partie verliert.
 
-104.3f Wenn ein Spieler das Spiel gleichzeitig sowohl gewinnen als auch verlieren würde, 
-verliert er das Spiel.
+104.3f Wenn ein Spieler die Partie gleichzeitig sowohl gewinnen als auch verlieren würde, 
+verliert er die Partie.
 
-104.3g In einer Mehrspieler-Partie zwischen Teams verliert ein Team das Spiel, 
-wenn alle Spieler in diesem Team das Spiel verloren haben.
+104.3g In einer Mehrspieler-Partie zwischen Teams verliert ein Team die Partie, 
+wenn alle Spieler in diesem Team die Partie verloren haben.
 
 104.3h In einer Mehrspieler-Partie sorgt ein Effekt, der festlegt, dass ein 
-Spieler das Spiel gewinnt, stattdessen dafür, dass alle Gegner dieses Spielers 
-das Spiel verlieren. (Wenn die Option Begrenzte Einflussweite genutzt wird, 
-muss dies nicht dazu führen, dass das Spiel zu Ende ist; siehe Regel 801.)
+Spieler die Partie gewinnt, stattdessen dafür, dass alle Gegner dieses Spielers 
+die Partie verlieren. (Wenn die Option Begrenzte Einflussweite genutzt wird, 
+muss dies nicht dazu führen, dass die Partie zu Ende ist; siehe Regel 801.)
 
-104.3i In einer Partie Emperor verliert ein Team das Spiel, wenn sein Kaiser 
-das Spiel verliert. (Siehe Regel 809.5.)
+104.3i In einer Partie Emperor verliert ein Team die Partie, wenn sein Kaiser 
+die Partie verliert. (Siehe Regel 809.5.)
 
-104.3j In einer Partie Commander verliert ein Spieler das Spiel, wenn er im 
-Verlauf des Spiels 21 oder mehr Kampfschaden von demselben Kommandeur erhalten 
+104.3j In einer Partie Commander verliert ein Spieler die Partie, wenn er im 
+Verlauf der Partie 21 oder mehr Kampfschaden von demselben Kommandeur erhalten 
 hat. (Dies ist eine zustandsbasierte Aktion. Siehe Regel 704. Siehe 
 auch Regel 903.14.)
 
 104.3k In einem Turnier kann ein Spieler durch eine von einem Schiedsrichter 
-verhängte Strafe das Spiel verlieren. Siehe Regel 100.6.
+verhängte Strafe die Partie verlieren. Siehe Regel 100.6.
 
-104.4. Es gibt verschiedene Wege, das Spiel unentschieden zu beenden.
+104.4. Es gibt verschiedene Wege, die Partie unentschieden zu beenden.
 
-104.4a Wenn alle im Spiel verbliebenen Spieler das Spiel gleichzeitig 
-verlieren, endet das Spiel unentschieden.
+104.4a Wenn alle im Spiel verbliebenen Spieler die Partie gleichzeitig 
+verlieren, endet die Partie unentschieden.
 
-104.4b Wenn ein Spiel, das nicht die Option Begrenzte Einflussweite nutzt
-(einschließlich einer Zwei-Personen-Partie), 
-irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der es, 
-ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet es 
-unentschieden. Schleifen, die eine optionale Aktion enthalten, ergeben kein 
+104.4b Eine Partie, die nicht die Option Begrenzte Einflussweite nutzt
+(einschließlich einer Zwei-Personen-Partie) endet unentschieden, wenn sie 
+irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der eine Serie von Ereignissen wiederholt wird, ohne einen Weg dies zu stoppen. Schleifen, die eine optionale Aktion enthalten, ergeben kein 
 Unentschieden.
 
-104.4c Ein Effekt kann festlegen, dass das Spiel unentschieden endet.
+104.4c Ein Effekt kann festlegen, dass die Partie unentschieden endet.
 
-104.4d In einer Mehrspieler-Partie zwischen Teams endet das Spiel unentschieden, 
+104.4d In einer Mehrspieler-Partie zwischen Teams endet die Partie unentschieden, 
 wenn alle noch im Spiel verbliebenen Teams gleichzeitig verlieren.
 
-104.4e In einer Mehrspieler-Partie, die die Option Begrenzte Einflussweite 
-nutzt, sorgt ein Effekt eines Zauberspruchs oder einer Fähigkeit, der angibt, 
-dass das Spiel unentschieden endet, dafür, dass das Spiel für den Beherrscher 
-dieses Zauberspruchs bzw. dieser Fähigkeit und alle Spieler in seiner 
+104.4e In einer Mehrspieler-Partie mit der Option Begrenzte Einflussweite sorgt ein Effekt eines Zauberspruchs oder einer Fähigkeit, der angibt, 
+dass die Partie unentschieden endet, dafür, dass die Partie für den Beherrscher 
+dieses Zauberspruchs bzw. dieser Fähigkeit und für alle Spieler in seiner 
 Einflussweite unentschieden endet. Nur diese Spieler verlassen das Spiel; alle 
-anderen Spieler setzen das Spiel fort.
+anderen Spieler setzen die Partie fort.
 
-104.4f Wenn ein Spiel, das die Option Begrenzte Einflussweite nutzt, 
-irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der es, 
-ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet es 
+104.4f Wenn eine Partie, die die Option Begrenzte Einflussweite nutzt, 
+irgendwie in eine „Schleife“ von verpflichtenden Aktionen eintritt, in der sie, 
+ohne einen Weg dies zu stoppen, eine Reihe von Ereignissen wiederholt, endet sie 
 unentschieden sowohl für jeden Spieler, der ein Objekt kontrolliert, das an 
 dieser Schleife beteiligt ist, als auch für jeden Spieler, der in der 
 Reichweite von einem dieser Spieler sitzt. Nur diese Spieler verlassen das 
-Spiel; alle anderen Spieler setzen das Spiel fort.
+Spiel; alle anderen Spieler setzen die Partie fort.
 
-104.4g In einer Mehrspieler-Partie zwischen Teams endet das Spiel für ein Team 
+104.4g In einer Mehrspieler-Partie zwischen Teams endet die Partie für ein Team 
 unentschieden, wenn es für alle noch im Spiel befindlichen Spieler dieses Teams 
-Unentschieden ist.
+unentschieden ist.
 
-104.4h In der Variante Emperor endet das Spiel für ein Team unentschieden, 
+104.4h In der Variante Emperor endet die Partie für ein Team unentschieden, 
 wenn es für seinen Kaiser Unentschieden ist. (Siehe Regel 809.5.)
 
 104.4i In einem Turnier können sich alle Spieler einer Partie auf ein 
 absichtliches Unentschieden einigen. Siehe Regel 100.6.
 
-104.5. Wenn ein Spieler das Spiel verliert, verlässt er das Spiel. Wenn das 
-Spiel für einen Spieler unentschieden endet, verlässt er das Spiel. Die 
-Regeln für Mehrspieler-Partien behandeln, was passiert, wenn ein Spieler das Spiel
+104.5. Wenn ein Spieler die Partie verliert, verlässt er das Spiel. Wenn die Partie für einen Spieler unentschieden endet, verlässt er das Spiel. Die 
+Regeln für Mehrspieler-Partien legen fest, was passiert, wenn ein Spieler das Spiel
 verlässt; siehe Regel 800.4.
 
 104.6. Eine Karte (Karn der Befreite) startet die Partie neu. Alle Spieler, die 
